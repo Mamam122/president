@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">President</string>
+    <string name="deskripsi">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL
+        , on October 4. We attended Google’s London UK event, mirroring the main one taking</string>
+    <string name="tanggal">10-10-1000</string>
+    <string name="wafat">Wafat</string>
+    <string name="lahir">Lahir</string>
+    <string name="tinggi">Tinggi</string>
+</resources>
